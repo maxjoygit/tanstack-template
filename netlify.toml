@@ -1,4 +1,4 @@
 [template.environment]
-VITE_ANTHROPIC_API_KEY="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"
+VITE_ANTHROPIC_API_KEY="fsdf"
 [build.environment]
   SECRETS_SCAN_ENABLED = "false"
